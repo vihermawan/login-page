@@ -13,7 +13,7 @@
 }
 
 body {
-  background-image: url("/src/assets/img/bg-intro-desktop.png");
+  background-image: url("/assets/img/bg-intro-desktop.png");
   background-color: #ff7978;
   width: 100%;
   height: 100vh;
@@ -27,7 +27,7 @@ body {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    background-image: url("/src/assets/img/bg-intro-mobile.png");
+    background-image: url("/assets/img/bg-intro-mobile.png");
   }
 }
 
